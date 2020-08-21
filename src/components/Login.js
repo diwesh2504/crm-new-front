@@ -56,7 +56,9 @@ const Login=(props)=>{
         </div>
         <div className="col-4"></div>
         </div>
-        
+        <p>Admin email:admin@gmail.com
+            pass:12345
+        </p>
         </>
     )
     
